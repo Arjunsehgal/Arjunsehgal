@@ -1,4 +1,4 @@
-
+![Black and White Constellation Background 16_9](https://user-images.githubusercontent.com/59222712/114530271-6a5ddc00-9c68-11eb-9316-79db4e30c984.jpg)
 
 <h1 align="center">Hi 👋, I'm Arjun sehgal</h1>
 <h3 align="center">A passionate developer from India working as both frontend and backend developer</h3>
